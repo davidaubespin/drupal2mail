@@ -1,0 +1,17 @@
+database:
+  host: localhost
+  name: db_name
+  user: db_user
+  pass: db_password
+
+api:
+  endpoint: https://api.webfaction.com/
+  login: webfaction_login
+  password: webfaction_password
+
+mail:
+  domain: domain.com
+
+logs:
+  filename: drupal2mail.log
+  level: debug
